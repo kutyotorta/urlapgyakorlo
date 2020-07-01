@@ -1,0 +1,23 @@
+
+
+#bekezdes{
+    @font-face{font-family: "mnepmesek"; src:url("Magyar nepmesek.otf")};
+     text-align: center; font-size: larger;
+      }
+
+
+html{
+    background-color: rgb(243, 239, 187);
+}
+
+
+input{background-color: cornsilk;}
+textarea{background-color: cornsilk;}
+.form-control {width: 250px;height: 30px;border-radius: 10px;margin-top: 8px;margin-left: 20px;
+    
+}
+
+button {
+    width: 100px;height:30px ;padding: 5px;color: red; border: 2px solid blue; background-color: cornflowerblue;
+    border-radius: 5px; box-shadow: cornflowerblue;
+}
